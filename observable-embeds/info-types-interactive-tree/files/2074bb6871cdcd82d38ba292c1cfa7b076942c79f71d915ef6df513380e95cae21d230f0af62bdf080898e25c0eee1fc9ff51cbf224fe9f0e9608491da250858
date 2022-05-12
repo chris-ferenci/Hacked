@@ -1,0 +1,1091 @@
+{
+  "name": "Stolen Data",
+  "children": [
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "name": "Social connections",
+            "n_records": 3692955,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Social"
+          },
+          {
+            "name": "Homepage URLs",
+            "n_records": 1264321,
+            "n_breaches": 2,
+            "category": "Personal",
+            "subcategory": "Social"
+          },
+          {
+            "name": "Avatars",
+            "n_records": 3892286,
+            "n_breaches": 7,
+            "category": "Personal",
+            "subcategory": "Social"
+          },
+          {
+            "name": "User website URLs",
+            "n_records": 270209736,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Social"
+          },
+          {
+            "name": "Address book contacts",
+            "n_records": 20580060,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Social"
+          },
+          {
+            "name": "Social media profiles",
+            "n_records": 1481654740,
+            "n_breaches": 32,
+            "category": "Personal",
+            "subcategory": "Social"
+          },
+          {
+            "name": "Nicknames",
+            "n_records": 23956494,
+            "n_breaches": 2,
+            "category": "Personal",
+            "subcategory": "Social"
+          }
+        ],
+        "name": "Social",
+        "count": 7
+      },
+      {
+        "children": [
+          {
+            "name": "Marital statuses",
+            "n_records": 179607121,
+            "n_breaches": 14,
+            "category": "Personal",
+            "subcategory": "Romantic"
+          },
+          {
+            "name": "Relationship statuses",
+            "n_records": 564647393,
+            "n_breaches": 4,
+            "category": "Personal",
+            "subcategory": "Romantic"
+          },
+          {
+            "name": "Sexual orientations",
+            "n_records": 103005276,
+            "n_breaches": 7,
+            "category": "Personal",
+            "subcategory": "Romantic"
+          },
+          {
+            "name": "Parenting plans",
+            "n_records": 27393015,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Romantic"
+          },
+          {
+            "name": "Sexual fetishes",
+            "n_records": 68160667,
+            "n_breaches": 2,
+            "category": "Personal",
+            "subcategory": "Romantic"
+          }
+        ],
+        "name": "Romantic",
+        "count": 5
+      },
+      {
+        "children": [
+          {
+            "name": "Beauty ratings",
+            "n_records": 1100089,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Relationship"
+          }
+        ],
+        "name": "Relationship",
+        "count": 1
+      },
+      {
+        "children": [
+          {
+            "name": "Physical attributes",
+            "n_records": 57343145,
+            "n_breaches": 8,
+            "category": "Personal",
+            "subcategory": "Physical"
+          }
+        ],
+        "name": "Physical",
+        "count": 1
+      },
+      {
+        "children": [
+          {
+            "name": "Salutations",
+            "n_records": 149319463,
+            "n_breaches": 9,
+            "category": "Personal",
+            "subcategory": "Other"
+          },
+          {
+            "name": "Deceased statuses",
+            "n_records": 2257930,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Other"
+          },
+          {
+            "name": "Deceased date",
+            "n_records": 81830,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Other"
+          },
+          {
+            "name": "Astrological signs",
+            "n_records": 27393015,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Other"
+          }
+        ],
+        "name": "Other",
+        "count": 4
+      },
+      {
+        "children": [
+          {
+            "name": "Geographic locations",
+            "n_records": 3336153663,
+            "n_breaches": 82,
+            "category": "Personal",
+            "subcategory": "Location"
+          },
+          {
+            "name": "Time zones",
+            "n_records": 1945839,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Location"
+          },
+          {
+            "name": "Physical addresses",
+            "n_records": 2286534082,
+            "n_breaches": 126,
+            "category": "Personal",
+            "subcategory": "Location"
+          }
+        ],
+        "name": "Location",
+        "count": 3
+      },
+      {
+        "children": [
+          {
+            "name": "Names",
+            "n_records": 5679165014,
+            "n_breaches": 266,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Photos",
+            "n_records": 44109,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Driver's licenses",
+            "n_records": 2743539,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Social security numbers",
+            "n_records": 18026437,
+            "n_breaches": 6,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Government issued IDs",
+            "n_records": 8691614,
+            "n_breaches": 10,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Passport numbers",
+            "n_records": 742136,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Licence plates",
+            "n_records": 20949825,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Bios",
+            "n_records": 300411276,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Personal descriptions",
+            "n_records": 29465733,
+            "n_breaches": 3,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Dates of birth",
+            "n_records": 2750883908,
+            "n_breaches": 154,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Places of birth",
+            "n_records": 768890,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Partial dates of birth",
+            "n_records": 1623786,
+            "n_breaches": 3,
+            "category": "Personal",
+            "subcategory": "Identity"
+          },
+          {
+            "name": "Profile photos",
+            "n_records": 35854583,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Identity"
+          }
+        ],
+        "name": "Identity",
+        "count": 13
+      },
+      {
+        "children": [
+          {
+            "name": "Smoking habits",
+            "n_records": 39055839,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Health"
+          },
+          {
+            "name": "HIV statuses",
+            "n_records": 1107034,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Health"
+          },
+          {
+            "name": "Personal health data",
+            "n_records": 12957533,
+            "n_breaches": 4,
+            "category": "Personal",
+            "subcategory": "Health"
+          },
+          {
+            "name": "Health insurance information",
+            "n_records": 11820066,
+            "n_breaches": 2,
+            "category": "Personal",
+            "subcategory": "Health"
+          },
+          {
+            "name": "Drug habits",
+            "n_records": 28815732,
+            "n_breaches": 2,
+            "category": "Personal",
+            "subcategory": "Health"
+          },
+          {
+            "name": "Fitness levels",
+            "n_records": 27393015,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Health"
+          },
+          {
+            "name": "Drinking habits",
+            "n_records": 54950708,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Health"
+          },
+          {
+            "name": "Eating habits",
+            "n_records": 1383759,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Health"
+          }
+        ],
+        "name": "Health",
+        "count": 8
+      },
+      {
+        "children": [
+          {
+            "name": "Family members' names",
+            "n_records": 5756788,
+            "n_breaches": 4,
+            "category": "Personal",
+            "subcategory": "Family"
+          },
+          {
+            "name": "Family structure",
+            "n_records": 173151212,
+            "n_breaches": 7,
+            "category": "Personal",
+            "subcategory": "Family"
+          },
+          {
+            "name": "Spouses names",
+            "n_records": 768890,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Family"
+          }
+        ],
+        "name": "Family",
+        "count": 3
+      },
+      {
+        "children": [
+          {
+            "name": "School grades (class levels)",
+            "n_records": 542902,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          },
+          {
+            "name": "Education levels",
+            "n_records": 311012967,
+            "n_breaches": 9,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          },
+          {
+            "name": "Ethnicities",
+            "n_records": 224492880,
+            "n_breaches": 8,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          },
+          {
+            "name": "Genders",
+            "n_records": 2885504016,
+            "n_breaches": 109,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          },
+          {
+            "name": "Races",
+            "n_records": 3867997,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          },
+          {
+            "name": "Spoken languages",
+            "n_records": 492968782,
+            "n_breaches": 14,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          },
+          {
+            "name": "Age groups",
+            "n_records": 759074,
+            "n_breaches": 3,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          },
+          {
+            "name": "Religions",
+            "n_records": 191716926,
+            "n_breaches": 8,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          },
+          {
+            "name": "Nationalities",
+            "n_records": 11791727,
+            "n_breaches": 6,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          },
+          {
+            "name": "Ages",
+            "n_records": 1336754,
+            "n_breaches": 2,
+            "category": "Personal",
+            "subcategory": "Demographic"
+          }
+        ],
+        "name": "Demographic",
+        "count": 10
+      },
+      {
+        "children": [
+          {
+            "name": "Car ownership statuses",
+            "n_records": 1100089,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Economic"
+          },
+          {
+            "name": "Vehicle details",
+            "n_records": 6815288,
+            "n_breaches": 3,
+            "category": "Personal",
+            "subcategory": "Economic"
+          },
+          {
+            "name": "Home ownership statuses",
+            "n_records": 150308804,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Economic"
+          },
+          {
+            "name": "Income levels",
+            "n_records": 218192472,
+            "n_breaches": 11,
+            "category": "Personal",
+            "subcategory": "Economic"
+          },
+          {
+            "name": "Living costs",
+            "n_records": 768890,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Economic"
+          }
+        ],
+        "name": "Economic",
+        "count": 5
+      },
+      {
+        "children": [
+          {
+            "name": "Employers",
+            "n_records": 2318245767,
+            "n_breaches": 23,
+            "category": "Personal",
+            "subcategory": "Career"
+          },
+          {
+            "name": "Job titles",
+            "n_records": 2036379783,
+            "n_breaches": 24,
+            "category": "Personal",
+            "subcategory": "Career"
+          },
+          {
+            "name": "Job applications",
+            "n_records": 4758148,
+            "n_breaches": 4,
+            "category": "Personal",
+            "subcategory": "Career"
+          },
+          {
+            "name": "Employment statuses",
+            "n_records": 49681,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Career"
+          },
+          {
+            "name": "Career levels",
+            "n_records": 36789,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Career"
+          },
+          {
+            "name": "Occupations",
+            "n_records": 163717529,
+            "n_breaches": 5,
+            "category": "Personal",
+            "subcategory": "Career"
+          },
+          {
+            "name": "Years of professional experience",
+            "n_records": 1073164,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Career"
+          },
+          {
+            "name": "Professional skills",
+            "n_records": 1073164,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Career"
+          }
+        ],
+        "name": "Career",
+        "count": 8
+      },
+      {
+        "children": [
+          {
+            "name": "Buying preferences",
+            "n_records": 8176132,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Behavior"
+          },
+          {
+            "name": "Charitable donations",
+            "n_records": 8176132,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Behavior"
+          },
+          {
+            "name": "Purchasing habits",
+            "n_records": 7196890,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Behavior"
+          },
+          {
+            "name": "Personal interests",
+            "n_records": 132677852,
+            "n_breaches": 2,
+            "category": "Personal",
+            "subcategory": "Behavior"
+          },
+          {
+            "name": "Political donations",
+            "n_records": 8176132,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Behavior"
+          },
+          {
+            "name": "Political views",
+            "n_records": 51320868,
+            "n_breaches": 2,
+            "category": "Personal",
+            "subcategory": "Behavior"
+          },
+          {
+            "name": "Travel habits",
+            "n_records": 27393015,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Behavior"
+          },
+          {
+            "name": "Work habits",
+            "n_records": 27393015,
+            "n_breaches": 1,
+            "category": "Personal",
+            "subcategory": "Behavior"
+          }
+        ],
+        "name": "Behavior",
+        "count": 8
+      }
+    ],
+    "name": "Personal",
+    "count": 76
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "name": "Mothers maiden names",
+            "n_records": 768890,
+            "n_breaches": 1,
+            "category": "Credentials",
+            "subcategory": "Auxiliary"
+          },
+          {
+            "name": "Password hints",
+            "n_records": 152445165,
+            "n_breaches": 1,
+            "category": "Credentials",
+            "subcategory": "Auxiliary"
+          },
+          {
+            "name": "Password strengths",
+            "n_records": 5814988,
+            "n_breaches": 1,
+            "category": "Credentials",
+            "subcategory": "Auxiliary"
+          },
+          {
+            "name": "Security questions and answers",
+            "n_records": 53085584,
+            "n_breaches": 13,
+            "category": "Credentials",
+            "subcategory": "Auxiliary"
+          },
+          {
+            "name": "Historical passwords",
+            "n_records": 4702776,
+            "n_breaches": 5,
+            "category": "Credentials",
+            "subcategory": "Auxiliary"
+          },
+          {
+            "name": "Recovery email addresses",
+            "n_records": 1476783,
+            "n_breaches": 1,
+            "category": "Credentials",
+            "subcategory": "Auxiliary"
+          }
+        ],
+        "name": "Auxiliary",
+        "count": 6
+      },
+      {
+        "children": [
+          {
+            "name": "Passwords",
+            "n_records": 7998977666,
+            "n_breaches": 474,
+            "category": "Credentials",
+            "subcategory": "Logins"
+          },
+          {
+            "name": "Usernames",
+            "n_records": 3319121323,
+            "n_breaches": 319,
+            "category": "Credentials",
+            "subcategory": "Logins"
+          },
+          {
+            "name": "Auth tokens",
+            "n_records": 46539730,
+            "n_breaches": 7,
+            "category": "Credentials",
+            "subcategory": "Logins"
+          },
+          {
+            "name": "PINs",
+            "n_records": 5122675,
+            "n_breaches": 2,
+            "category": "Credentials",
+            "subcategory": "Logins"
+          },
+          {
+            "name": "Biometric data",
+            "n_records": 228605,
+            "n_breaches": 1,
+            "category": "Credentials",
+            "subcategory": "Logins"
+          },
+          {
+            "name": "Encrypted keys",
+            "n_records": 1408078,
+            "n_breaches": 1,
+            "category": "Credentials",
+            "subcategory": "Logins"
+          },
+          {
+            "name": "Mnemonic phrases",
+            "n_records": 1408078,
+            "n_breaches": 1,
+            "category": "Credentials",
+            "subcategory": "Logins"
+          }
+        ],
+        "name": "Logins",
+        "count": 7
+      }
+    ],
+    "name": "Credentials",
+    "count": 13
+  },
+  {
+    "children": [
+      {
+        "name": "Phone numbers",
+        "n_records": 3773752164,
+        "n_breaches": 159
+      },
+      {
+        "name": "Instant messenger identities",
+        "n_records": 2827558,
+        "n_breaches": 8
+      },
+      {
+        "name": "Email addresses",
+        "n_records": 11732454778,
+        "n_breaches": 580
+      }
+    ],
+    "name": "Contact",
+    "count": 3
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "name": "Home loan information",
+            "n_records": 972629,
+            "n_breaches": 1,
+            "category": "Financial",
+            "subcategory": "Status"
+          },
+          {
+            "name": "Account balances",
+            "n_records": 8317372,
+            "n_breaches": 7,
+            "category": "Financial",
+            "subcategory": "Status"
+          },
+          {
+            "name": "Credit status information",
+            "n_records": 159421560,
+            "n_breaches": 5,
+            "category": "Financial",
+            "subcategory": "Status"
+          },
+          {
+            "name": "Financial investments",
+            "n_records": 139753895,
+            "n_breaches": 2,
+            "category": "Financial",
+            "subcategory": "Status"
+          },
+          {
+            "name": "Net worths",
+            "n_records": 139753895,
+            "n_breaches": 2,
+            "category": "Financial",
+            "subcategory": "Status"
+          }
+        ],
+        "name": "Status",
+        "count": 5
+      },
+      {
+        "children": [
+          {
+            "name": "Credit card CVV",
+            "n_records": 104977,
+            "n_breaches": 1,
+            "category": "Financial",
+            "subcategory": "Payments"
+          },
+          {
+            "name": "Credit cards",
+            "n_records": 1047526,
+            "n_breaches": 5,
+            "category": "Financial",
+            "subcategory": "Payments"
+          },
+          {
+            "name": "Partial credit card data",
+            "n_records": 39952818,
+            "n_breaches": 17,
+            "category": "Financial",
+            "subcategory": "Payments"
+          },
+          {
+            "name": "Payment methods",
+            "n_records": 2424784,
+            "n_breaches": 1,
+            "category": "Financial",
+            "subcategory": "Payments"
+          },
+          {
+            "name": "Bank account numbers",
+            "n_records": 15696269,
+            "n_breaches": 6,
+            "category": "Financial",
+            "subcategory": "Payments"
+          }
+        ],
+        "name": "Payments",
+        "count": 5
+      },
+      {
+        "children": [
+          {
+            "name": "Financial transactions",
+            "n_records": 532919,
+            "n_breaches": 2,
+            "category": "Financial",
+            "subcategory": "History"
+          },
+          {
+            "name": "Taxation records",
+            "n_records": 471167,
+            "n_breaches": 1,
+            "category": "Financial",
+            "subcategory": "History"
+          },
+          {
+            "name": "Utility bills",
+            "n_records": 81830,
+            "n_breaches": 1,
+            "category": "Financial",
+            "subcategory": "History"
+          }
+        ],
+        "name": "History",
+        "count": 3
+      }
+    ],
+    "name": "Financial",
+    "count": 13
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "name": "Survey results",
+            "n_records": 2231256,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Other"
+          },
+          {
+            "name": "Appointments",
+            "n_records": 2660295,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Other"
+          },
+          {
+            "name": "Reward program balances",
+            "n_records": 2239,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Other"
+          }
+        ],
+        "name": "Other",
+        "count": 3
+      },
+      {
+        "children": [
+          {
+            "name": "Private messages",
+            "n_records": 7365849,
+            "n_breaches": 28,
+            "category": "Activity",
+            "subcategory": "Messages"
+          },
+          {
+            "name": "Email messages",
+            "n_records": 11723845,
+            "n_breaches": 8,
+            "category": "Activity",
+            "subcategory": "Messages"
+          },
+          {
+            "name": "Audio recordings",
+            "n_records": 44109,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Messages"
+          },
+          {
+            "name": "SMS messages",
+            "n_records": 100130,
+            "n_breaches": 2,
+            "category": "Activity",
+            "subcategory": "Messages"
+          },
+          {
+            "name": "Chat logs",
+            "n_records": 415240,
+            "n_breaches": 2,
+            "category": "Activity",
+            "subcategory": "Messages"
+          }
+        ],
+        "name": "Messages",
+        "count": 5
+      },
+      {
+        "children": [
+          {
+            "name": "Payment histories",
+            "n_records": 40946678,
+            "n_breaches": 9,
+            "category": "Activity",
+            "subcategory": "Logs"
+          },
+          {
+            "name": "Browsing histories",
+            "n_records": 44109,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Logs"
+          },
+          {
+            "name": "IP addresses",
+            "n_records": 2777522980,
+            "n_breaches": 250,
+            "category": "Activity",
+            "subcategory": "Logs"
+          },
+          {
+            "name": "User statuses",
+            "n_records": 149830,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Logs"
+          },
+          {
+            "name": "Login histories",
+            "n_records": 20339937,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Logs"
+          },
+          {
+            "name": "Purchases",
+            "n_records": 71281060,
+            "n_breaches": 25,
+            "category": "Activity",
+            "subcategory": "Logs"
+          },
+          {
+            "name": "Website activity",
+            "n_records": 283313968,
+            "n_breaches": 76,
+            "category": "Activity",
+            "subcategory": "Logs"
+          }
+        ],
+        "name": "Logs",
+        "count": 7
+      },
+      {
+        "children": [
+          {
+            "name": "Customer interactions",
+            "n_records": 139395,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Interactions"
+          },
+          {
+            "name": "Customer feedback",
+            "n_records": 88678,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Interactions"
+          },
+          {
+            "name": "Support tickets",
+            "n_records": 26815,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Interactions"
+          }
+        ],
+        "name": "Interactions",
+        "count": 3
+      },
+      {
+        "children": [
+          {
+            "name": "IMEI numbers",
+            "n_records": 20624169,
+            "n_breaches": 2,
+            "category": "Activity",
+            "subcategory": "Devices"
+          },
+          {
+            "name": "IMSI numbers",
+            "n_records": 40919997,
+            "n_breaches": 2,
+            "category": "Activity",
+            "subcategory": "Devices"
+          },
+          {
+            "name": "Apps installed on devices",
+            "n_records": 20580060,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Devices"
+          },
+          {
+            "name": "Cellular network names",
+            "n_records": 20580060,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Devices"
+          },
+          {
+            "name": "MAC addresses",
+            "n_records": 139395,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Devices"
+          },
+          {
+            "name": "Device serial numbers",
+            "n_records": 20339937,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Devices"
+          },
+          {
+            "name": "Browser user agent details",
+            "n_records": 32466996,
+            "n_breaches": 14,
+            "category": "Activity",
+            "subcategory": "Devices"
+          },
+          {
+            "name": "Device usage tracking data",
+            "n_records": 699793,
+            "n_breaches": 1,
+            "category": "Activity",
+            "subcategory": "Devices"
+          },
+          {
+            "name": "Device information",
+            "n_records": 99447993,
+            "n_breaches": 12,
+            "category": "Activity",
+            "subcategory": "Devices"
+          }
+        ],
+        "name": "Devices",
+        "count": 9
+      }
+    ],
+    "name": "Activity",
+    "count": 27
+  }    
+  ]
+}
