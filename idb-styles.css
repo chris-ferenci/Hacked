@@ -7,6 +7,7 @@
 	--very-light-purple-color: rgb(251, 251, 255);
 	--light-purple-color: rgb(241, 237, 253);
 	--light-purple-color-nav: rgb(229, 221, 255);
+	--light-purple-color-help: #3a1eaa8a;
 	--medium-purple-color: #3b1eaa;
 	--dark-purple-color: #2a1578;
 	--very-dark-purple-color: #120935;
@@ -24,6 +25,11 @@
 
 a {
 	text-decoration: none;
+	color: #695aa4;
+}
+
+a:hover {
+	color: var(--light-green-color)
 }
 
 li {
@@ -42,6 +48,12 @@ flex-direction: column;
 flex-basis: 100%;
 flex: 1;
 }
+
+.helper {
+	color: var(--light-purple-color-help);
+	font-weight: 500;
+}
+
 
 /* Buttons */
 
