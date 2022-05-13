@@ -8,6 +8,7 @@
 	--light-purple-color: rgb(241, 237, 253);
 	--light-purple-color-nav: rgb(229, 221, 255);
 	--light-purple-color-help: #3a1eaa8a;
+	--medium-purple-color-hl: #513da3;
 	--medium-purple-color: #3b1eaa;
 	--dark-purple-color: #2a1578;
 	--very-dark-purple-color: #120935;
@@ -15,7 +16,6 @@
 	--corner-radius: 40px;
 
 }
-
 
 
 * {
@@ -166,14 +166,13 @@ flex: 1;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 20px;
+	padding: 15px;
 	background: var(--light-purple-color-nav);
-	color: #fff;
 	z-index: 100;
 }
 
 .idb-nav-links{
-	margin-bottom: 0;;
+	margin-bottom: 0;
 }
 
 .idb-nav-links a{
@@ -181,9 +180,8 @@ flex: 1;
 }
 
 .idb-nav-links a:hover{
-	color: var(--light-purple-color);
+	color: var(--medium-purple-color-hl)
 }
-
 
 .idb-menu{
 	display: flex;
@@ -191,15 +189,19 @@ flex: 1;
  	font-size: 18px;
 }
 
+.idb-menu li {
+	padding: 5px 14px;
+   }
+
 .idb-menu li:hover {
-	color: var(--light-green-color);
+	color: var(--median-green-color-hl);
 	border-radius: 5px;
 	transition: 0.3s ease;
 }
 
-.idb-menu li {
-	padding: 5px 14px;
-   }
+.idb-menu li:active {
+	font-weight: 1000;
+}
 
 .idb-navbar-sticky {
 	position: fixed;
